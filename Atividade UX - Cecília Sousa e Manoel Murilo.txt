@@ -1,0 +1,22 @@
+Nome da dupla: Cecília Sousa de Medeiros e Manoel Murilo de Medeiros Filho
+
+
+MOMENTO 1:
+
+Affordance: Nas duas telas podemos observar a presença dessa técina que indica operância do objeto. Na primeira tela, temos uma lupa "piscando", que induz o clique do cliente. Já na segunda tela, temos um botão com seta "piscando" da mesma maneira, indicando que é um objeto clicável.
+
+Metáfora: Novamente, temos aplicação da técnica nas duas telas. Essa técnica consiste em indicar uma funcionalidade sem precisar, de fato, apresentar o que ela faz. Na primeira tela temos uma lupa que intuitivamente representa BUSCA, PESQUISA.
+
+IHC: Na nossa aplicação, apresentamos vários objetos que funcionam para a interação humano-computador: links nos anúncios para redirecioná-los; barra de pesquisa; link de compra de vinhos; lupa para pesquisa & seta para retorno.
+
+Arquitetura de informação: Os elementos básicos do design precisam estar bem dispostos na aplicação para facilitar o uso e o tornar a experiência do usuário agradável e confortável. A exemplo dessas técnicas, podemos apontar a apresentação da barra de busca centralizada e em maior destaque; uma lupa para indicar que é possível realizar pesquisa; a logo para fazer referência à marca (óbvio); um plano de fundo que remete ao objetivo do buscador & e cores que remetem à temática.
+
+Visual design: essa técnica representa como os elementos interagem entre eles, optanto por cores que contrastam com os outros elementos, fontes agradáveis e que remetem a ideia central, etc.
+
+MOMENTO 2:
+
+Eficácia: esse método compreende em identificar se o site cumpre o seu real objetivo. No Wine's House (não totalmente eficiente) é possível realizar a busca por vinhos, que é sua ideia principal.
+
+Eficiência: como o site é bem intuitivo isso torna o uso rápido e direto, fazendo o cliente chegar ao resultado de sua busca.
+
+Engajamento: a satisfação é a principal ordem dessa regra. Para isso, é necessário utilizar de elementos que satisfação e se conectem com o público-alvo, assim, nós poderíamos optar por fontes que indiquem
